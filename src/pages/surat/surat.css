@@ -1,0 +1,23 @@
+.suratContainer{
+    padding: 50px 100px;
+    width: 100%;
+}
+
+.card-ayat{
+    display: flex;
+    /* align-items: flex-start; */
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: rgb(57 63 72 / 30%) 0px 1px 3px;
+    margin: 5px;
+}
+.ayat_arab{
+    text-align: right;
+    color: #071f55;
+    font-weight: 900;
+    font-size: 20px;
+}

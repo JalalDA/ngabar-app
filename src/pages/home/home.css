@@ -1,0 +1,32 @@
+.container-surat{
+    padding : 50px;
+}
+
+.card-surat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: rgb(57 63 72 / 30%) 0px 1px 3px;
+    margin: 5px;
+}
+
+.visit-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #83ff31;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    color: #ffffff;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.visit-button:hover{
+    background-color: #b2f188;
+}
